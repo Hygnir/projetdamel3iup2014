@@ -3,6 +3,7 @@
 #include <string.h>
 #include "sdd.h"
 
+//Ceci est un test
 
 int main(){
 	DAMIER *damier;
